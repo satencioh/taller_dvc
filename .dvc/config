@@ -3,4 +3,4 @@
 ['remote "fuentelocal"']
     url = /tmp/dvcstore
 ['remote "aws-remote"']
-    url = s3://sandy-dvcstore
+    url = s3://sandyat-dvcstore
